@@ -1,0 +1,12 @@
+h1{
+    color: navy
+}
+p{
+    color: orange;
+}
+h1, p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    background-color: lightgray;
+}
